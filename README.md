@@ -179,10 +179,3 @@ signo  exponente(8)      mantisa(23)
 
 ---
 
-## Cómo usar este repositorio
-
-Los scripts de conversión automática están en [`conversiones.py`](conversiones.py). Puedes ejecutarlos con:
-
-```bash
-python3 conversiones.py
-```
