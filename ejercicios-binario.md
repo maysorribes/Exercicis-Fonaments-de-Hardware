@@ -1,4 +1,3 @@
-[← Volver al índice](README.md)
 
 # Sistemas Numéricos — Solución
 
@@ -181,4 +180,3 @@ signo  exponente(8)      mantisa(23)
 
 ---
 
-[← Volver al índice](README.md)
