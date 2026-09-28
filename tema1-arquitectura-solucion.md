@@ -2,10 +2,8 @@
 
 Material elaborado para el módulo **Fundamentos de Hardware**
 
-# Tema 1. Arquitectura de computadores — SOLUCIÓN (documento para el profesorado)
+# Tema 1. Arquitectura de computadores — SOLUCIÓN 
 
-!!! warning "Página no enlazada"
-    Esta página existe en el sitio pero **no aparece en el menú de navegación**. Solo es accesible con el enlace directo. No compartas este enlace con el alumnado.
 
 ## Ejercicio 1. Elementos de un sistema informático
 
