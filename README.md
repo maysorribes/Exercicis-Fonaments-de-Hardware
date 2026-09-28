@@ -1,4 +1,4 @@
-## Índice de prácticas
+# Ejercicios Fundamentos de Hardware — Soluciones
 
 - [Sistemas Numéricos](ejercicios-binario.md) — conversión entre bases (binario, octal, decimal, hexadecimal), complemento a 2, ASCII/Unicode, IEEE 754.
 - [Arquitectura de computadores](tema1-arquitectura-solucion.md) — sistemas informáticos, Von Neumann y Harvard, CPU, frecuencia, buses, memoria, periféricos, ciclo de instrucción.
