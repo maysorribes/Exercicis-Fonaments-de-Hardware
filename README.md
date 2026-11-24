@@ -7,4 +7,5 @@
 - [UT2 · Procesadores actuales](ut2p3-procesadores-actuales-solucion.md)  
 - [UT2.2 · Microprocesador y memoria](ut2-2-microprocesador-memoria-solucion.md) — transistores y nodos, CISC/RISC, partes del microprocesador, núcleos e hilos, potencia, thermal throttling, overclocking, caché, DRAM/SRAM, DDR4, SPD, dual channel, HBM y Optane, CPU-Z.
 - [UT2.3 · Almacenamiento y tarjetas de expansión](ut2-3-almacenamiento-tarjetas-solucion.md) — almacenamiento primario/secundario/terciario, HDD y SSD, CHS y LBA, M.2 SATA y NVMe, tipos de celda, TRIM, PCI y PCIe, tarjetas gráficas, salidas de vídeo y RAID.
+- [UT2P4 · Memoria](ut2p4-memoria-solucion.md) — jerarquía de memoria, DDR5 frente a DDR4, ECC, matriz 3D, buses, SRAM/DRAM, caché, tabla de módulos, identificación de módulos y nuevas tecnologías de memoria.
 *(Aquí se irán añadiendo enlaces a medida que se publiquen nuevas prácticas.)*
